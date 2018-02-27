@@ -1,0 +1,106 @@
+label {
+    cursor: default;
+}
+
+body {
+	background-image: url('../images/tmnt.jpg');
+
+}
+
+#game-title {
+	background-color: beige;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	padding:30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 50px;
+	color: green;
+	width: 60%;
+	align-content: center;
+}
+
+#timer {
+	background-color: beige;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	padding:30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 50px;
+	color: green;
+	width: 60%;
+	align-content: center;
+}
+
+.questions {
+	background-color: beige;
+	font-weight: bold;
+	padding:30px;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 50px;
+	color: green;
+	width: 40%;
+	align-content: center;
+}
+
+#instructions, #results {
+	background-color: beige;
+	font-size: 20px;
+	font-weight: bold;
+	padding:30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 50px;
+	color: green;
+	width: 60%;
+	align-content: center;
+}
+
+/*start quiz button on startPage.html*/ 
+/*redo quiz button on resultsPage.html*/
+#cowabunga1, #cowabunga3 {
+    background-color: beige;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    color: green;
+    padding: 2% ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 35%;
+	margin-right: 20%;
+	margin-top: 50px;
+	margin-bottom: 5%;
+    width: 26%;
+    align-content: center;
+}
+
+/*submit quiz button on index.html*/
+#cowabunga2 {
+    background-color: beige;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    color: green;
+    padding: 15px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 40%;
+	margin-right: 30%;
+	margin-top: 50px;
+	margin-bottom:5%;
+    width: 26%;
+    align-content: center;
+}
+
+
